@@ -1,0 +1,5 @@
+{
+  "name": "AccountGenie",
+  "description": "One-click disposable accounts with local auto-verification. Privacy-first, secure, and ephemeral.",
+  "requestFramePermissions": []
+}
